@@ -1,0 +1,1 @@
+Query expansion adds related terms to improve retrieval performance. Relevance feedback and thesaurus based expansion can increase recall. Multimedia search also benefits from semantic keyword suggestions.

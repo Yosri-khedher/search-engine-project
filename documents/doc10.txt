@@ -1,0 +1,1 @@
+Classification algorithms such as decision trees, support vector machines, and naive Bayes are fundamental in machine learning. They map document features to categories. Evaluation metrics help compare these models.

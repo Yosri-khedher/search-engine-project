@@ -1,0 +1,1 @@
+Audio processing studies speech signals, music analysis, and sound classification. Features such as frequency and energy describe audio content. Multimedia search engines may use text tags to retrieve audio resources.

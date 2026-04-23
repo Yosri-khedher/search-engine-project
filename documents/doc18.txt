@@ -1,0 +1,1 @@
+Object detection locates visual entities in an image and assigns labels. Modern computer vision systems use convolutional neural networks for this task. Detection supports visual search and multimedia analysis.

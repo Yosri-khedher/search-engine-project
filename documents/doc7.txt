@@ -1,0 +1,1 @@
+An inverted index stores each term with the list of documents that contain it. This structure speeds up search in large collections. Indexing is central to information retrieval and Boolean search.

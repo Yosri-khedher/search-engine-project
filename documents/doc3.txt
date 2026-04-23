@@ -1,0 +1,1 @@
+Information retrieval focuses on finding relevant documents for a user query. A search engine builds an index, measures document relevance, and ranks results. Retrieval quality depends on good preprocessing and scoring.

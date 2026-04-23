@@ -1,0 +1,1 @@
+Ranking functions estimate how relevant a document is for a query. TF IDF and cosine similarity are classical techniques in vector space retrieval. Precision and recall are used to evaluate ranking performance.
