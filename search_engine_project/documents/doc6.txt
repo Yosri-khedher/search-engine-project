@@ -1,0 +1,1 @@
+Multimedia search combines text, image, and audio information to answer complex queries. A multimedia system can link visual descriptors with textual annotations. Cross modal retrieval is useful for digital libraries and archives.

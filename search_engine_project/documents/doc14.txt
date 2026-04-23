@@ -1,0 +1,1 @@
+Neural networks learn hierarchical representations from data. Deep learning models are effective for recommendation, prediction, and computer vision. They often require many parameters and careful training.

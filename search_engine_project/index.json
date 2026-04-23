@@ -1,0 +1,869 @@
+{
+    "machine": {
+        "doc1.txt": 1,
+        "doc10.txt": 1,
+        "doc2.txt": 1,
+        "doc20.txt": 1
+    },
+    "learn": {
+        "doc1.txt": 3,
+        "doc10.txt": 1,
+        "doc14.txt": 2,
+        "doc2.txt": 2,
+        "doc20.txt": 2,
+        "doc5.txt": 1
+    },
+    "study": {
+        "doc1.txt": 1,
+        "doc19.txt": 1,
+        "doc8.txt": 1
+    },
+    "algorithm": {
+        "doc1.txt": 1,
+        "doc10.txt": 1
+    },
+    "pattern": {
+        "doc1.txt": 1,
+        "doc19.txt": 1,
+        "doc20.txt": 1
+    },
+    "data": {
+        "doc1.txt": 1,
+        "doc14.txt": 1,
+        "doc19.txt": 1,
+        "doc2.txt": 1
+    },
+    "supervis": {
+        "doc1.txt": 1
+    },
+    "label": {
+        "doc1.txt": 1,
+        "doc18.txt": 1
+    },
+    "exampl": {
+        "doc1.txt": 1
+    },
+    "build": {
+        "doc1.txt": 1,
+        "doc3.txt": 1
+    },
+    "predict": {
+        "doc1.txt": 1,
+        "doc14.txt": 1
+    },
+    "model": {
+        "doc1.txt": 1,
+        "doc10.txt": 1,
+        "doc12.txt": 2,
+        "doc14.txt": 1,
+        "doc20.txt": 1,
+        "doc4.txt": 1,
+        "doc5.txt": 1
+    },
+    "good": {
+        "doc1.txt": 1,
+        "doc3.txt": 1
+    },
+    "featur": {
+        "doc1.txt": 1,
+        "doc10.txt": 1,
+        "doc8.txt": 1
+    },
+    "clean": {
+        "doc1.txt": 1
+    },
+    "train": {
+        "doc1.txt": 1,
+        "doc14.txt": 1,
+        "doc2.txt": 1
+    },
+    "set": {
+        "doc1.txt": 1
+    },
+    "usual": {
+        "doc1.txt": 1
+    },
+    "improve": {
+        "doc1.txt": 1,
+        "doc16.txt": 1,
+        "doc17.txt": 1
+    },
+    "classificate": {
+        "doc1.txt": 1,
+        "doc10.txt": 1,
+        "doc19.txt": 1,
+        "doc8.txt": 1
+    },
+    "quality": {
+        "doc1.txt": 1,
+        "doc3.txt": 1,
+        "doc9.txt": 1
+    },
+    "decis": {
+        "doc10.txt": 1,
+        "doc2.txt": 1
+    },
+    "tre": {
+        "doc10.txt": 1
+    },
+    "support": {
+        "doc10.txt": 1,
+        "doc13.txt": 1,
+        "doc16.txt": 1,
+        "doc18.txt": 1,
+        "doc4.txt": 1
+    },
+    "vector": {
+        "doc10.txt": 1,
+        "doc15.txt": 1
+    },
+    "machin": {
+        "doc10.txt": 1
+    },
+    "naive": {
+        "doc10.txt": 1
+    },
+    "bay": {
+        "doc10.txt": 1
+    },
+    "fundamental": {
+        "doc10.txt": 1
+    },
+    "map": {
+        "doc10.txt": 1
+    },
+    "docu": {
+        "doc10.txt": 1,
+        "doc15.txt": 1,
+        "doc16.txt": 1,
+        "doc3.txt": 1
+    },
+    "category": {
+        "doc10.txt": 1
+    },
+    "evaluate": {
+        "doc10.txt": 1,
+        "doc15.txt": 1,
+        "doc2.txt": 1
+    },
+    "metric": {
+        "doc10.txt": 1
+    },
+    "help": {
+        "doc10.txt": 1,
+        "doc11.txt": 1,
+        "doc13.txt": 1,
+        "doc19.txt": 1,
+        "doc9.txt": 1
+    },
+    "compare": {
+        "doc10.txt": 1
+    },
+    "image": {
+        "doc11.txt": 2,
+        "doc18.txt": 1,
+        "doc2.txt": 1,
+        "doc6.txt": 1
+    },
+    "index": {
+        "doc11.txt": 2,
+        "doc13.txt": 1,
+        "doc16.txt": 1,
+        "doc3.txt": 1,
+        "doc7.txt": 2
+    },
+    "rely": {
+        "doc11.txt": 1
+    },
+    "color": {
+        "doc11.txt": 1
+    },
+    "texture": {
+        "doc11.txt": 1
+    },
+    "shape": {
+        "doc11.txt": 1
+    },
+    "local": {
+        "doc11.txt": 1
+    },
+    "descriptor": {
+        "doc11.txt": 1,
+        "doc19.txt": 1,
+        "doc6.txt": 1
+    },
+    "computer": {
+        "doc11.txt": 1,
+        "doc14.txt": 1,
+        "doc18.txt": 1,
+        "doc5.txt": 1,
+        "doc9.txt": 1
+    },
+    "vision": {
+        "doc11.txt": 1,
+        "doc14.txt": 1,
+        "doc18.txt": 1,
+        "doc5.txt": 1
+    },
+    "method": {
+        "doc11.txt": 1
+    },
+    "convert": {
+        "doc11.txt": 1
+    },
+    "pixel": {
+        "doc11.txt": 1
+    },
+    "search": {
+        "doc11.txt": 1,
+        "doc13.txt": 1,
+        "doc16.txt": 1,
+        "doc17.txt": 1,
+        "doc18.txt": 1,
+        "doc3.txt": 1,
+        "doc6.txt": 1,
+        "doc7.txt": 2,
+        "doc8.txt": 1
+    },
+    "representate": {
+        "doc11.txt": 1,
+        "doc14.txt": 1
+    },
+    "efficient": {
+        "doc11.txt": 1,
+        "doc16.txt": 1
+    },
+    "large": {
+        "doc11.txt": 1,
+        "doc7.txt": 1
+    },
+    "collection": {
+        "doc11.txt": 1,
+        "doc7.txt": 1
+    },
+    "remain": {
+        "doc11.txt": 1
+    },
+    "access": {
+        "doc11.txt": 1
+    },
+    "speech": {
+        "doc12.txt": 1,
+        "doc8.txt": 1
+    },
+    "recognit": {
+        "doc12.txt": 1,
+        "doc5.txt": 1
+    },
+    "transform": {
+        "doc12.txt": 1,
+        "doc19.txt": 1
+    },
+    "audio": {
+        "doc12.txt": 2,
+        "doc19.txt": 1,
+        "doc6.txt": 1,
+        "doc8.txt": 3
+    },
+    "signal": {
+        "doc12.txt": 1,
+        "doc19.txt": 2,
+        "doc8.txt": 1
+    },
+    "text": {
+        "doc12.txt": 1,
+        "doc6.txt": 1,
+        "doc8.txt": 1,
+        "doc9.txt": 1
+    },
+    "acoustic": {
+        "doc12.txt": 1
+    },
+    "language": {
+        "doc12.txt": 2,
+        "doc2.txt": 1,
+        "doc9.txt": 1
+    },
+    "cooperate": {
+        "doc12.txt": 1
+    },
+    "decode": {
+        "doc12.txt": 1
+    },
+    "spoken": {
+        "doc12.txt": 1
+    },
+    "word": {
+        "doc12.txt": 1,
+        "doc9.txt": 1
+    },
+    "task": {
+        "doc12.txt": 1,
+        "doc18.txt": 1,
+        "doc5.txt": 1
+    },
+    "link": {
+        "doc12.txt": 1,
+        "doc6.txt": 1
+    },
+    "process": {
+        "doc12.txt": 1,
+        "doc8.txt": 1,
+        "doc9.txt": 1
+    },
+    "natural": {
+        "doc12.txt": 1,
+        "doc9.txt": 1
+    },
+    "technology": {
+        "doc12.txt": 1
+    },
+    "digital": {
+        "doc13.txt": 1,
+        "doc6.txt": 1
+    },
+    "library": {
+        "doc13.txt": 1,
+        "doc6.txt": 1
+    },
+    "manage": {
+        "doc13.txt": 1
+    },
+    "book": {
+        "doc13.txt": 1
+    },
+    "articl": {
+        "doc13.txt": 1
+    },
+    "imag": {
+        "doc13.txt": 1,
+        "doc5.txt": 1
+    },
+    "multimedia": {
+        "doc13.txt": 1,
+        "doc17.txt": 1,
+        "doc18.txt": 1,
+        "doc19.txt": 1,
+        "doc6.txt": 2,
+        "doc8.txt": 1
+    },
+    "archiv": {
+        "doc13.txt": 1,
+        "doc6.txt": 1
+    },
+    "interfac": {
+        "doc13.txt": 1
+    },
+    "must": {
+        "doc13.txt": 1
+    },
+    "metadata": {
+        "doc13.txt": 1,
+        "doc16.txt": 1
+    },
+    "user": {
+        "doc13.txt": 2,
+        "doc20.txt": 1,
+        "doc3.txt": 1,
+        "doc4.txt": 1
+    },
+    "friend": {
+        "doc13.txt": 1
+    },
+    "explorate": {
+        "doc13.txt": 1
+    },
+    "retrieval": {
+        "doc13.txt": 1,
+        "doc15.txt": 1,
+        "doc17.txt": 1,
+        "doc19.txt": 1,
+        "doc3.txt": 2,
+        "doc4.txt": 1,
+        "doc6.txt": 1,
+        "doc7.txt": 1,
+        "doc9.txt": 1
+    },
+    "system": {
+        "doc13.txt": 1,
+        "doc16.txt": 1,
+        "doc18.txt": 1,
+        "doc2.txt": 1,
+        "doc20.txt": 1,
+        "doc6.txt": 1
+    },
+    "discover": {
+        "doc13.txt": 1
+    },
+    "relevant": {
+        "doc13.txt": 1,
+        "doc15.txt": 1,
+        "doc3.txt": 1
+    },
+    "resourc": {
+        "doc13.txt": 1,
+        "doc8.txt": 1
+    },
+    "quick": {
+        "doc13.txt": 1
+    },
+    "neural": {
+        "doc14.txt": 1,
+        "doc18.txt": 1,
+        "doc2.txt": 1
+    },
+    "network": {
+        "doc14.txt": 1,
+        "doc18.txt": 1,
+        "doc2.txt": 1
+    },
+    "hierarchical": {
+        "doc14.txt": 1
+    },
+    "deep": {
+        "doc14.txt": 1,
+        "doc2.txt": 1,
+        "doc5.txt": 1
+    },
+    "effect": {
+        "doc14.txt": 1
+    },
+    "recommendate": {
+        "doc14.txt": 1,
+        "doc20.txt": 2
+    },
+    "often": {
+        "doc14.txt": 1,
+        "doc16.txt": 1,
+        "doc9.txt": 1
+    },
+    "require": {
+        "doc14.txt": 1
+    },
+    "parameter": {
+        "doc14.txt": 1
+    },
+    "care": {
+        "doc14.txt": 1
+    },
+    "rank": {
+        "doc15.txt": 2,
+        "doc20.txt": 1,
+        "doc3.txt": 1,
+        "doc4.txt": 1
+    },
+    "function": {
+        "doc15.txt": 1
+    },
+    "estimate": {
+        "doc15.txt": 1
+    },
+    "query": {
+        "doc15.txt": 1,
+        "doc17.txt": 1,
+        "doc3.txt": 1,
+        "doc6.txt": 1,
+        "doc9.txt": 2
+    },
+    "tf": {
+        "doc15.txt": 1
+    },
+    "idf": {
+        "doc15.txt": 1
+    },
+    "cosine": {
+        "doc15.txt": 1
+    },
+    "similarity": {
+        "doc15.txt": 1,
+        "doc20.txt": 1
+    },
+    "classical": {
+        "doc15.txt": 1
+    },
+    "techniqu": {
+        "doc15.txt": 1
+    },
+    "space": {
+        "doc15.txt": 1
+    },
+    "precis": {
+        "doc15.txt": 1
+    },
+    "recal": {
+        "doc15.txt": 1,
+        "doc17.txt": 1
+    },
+    "performance": {
+        "doc15.txt": 1,
+        "doc17.txt": 1
+    },
+    "database": {
+        "doc16.txt": 1
+    },
+    "store": {
+        "doc16.txt": 1
+    },
+    "structur": {
+        "doc16.txt": 1,
+        "doc19.txt": 1
+    },
+    "informate": {
+        "doc16.txt": 1,
+        "doc3.txt": 1,
+        "doc6.txt": 1,
+        "doc7.txt": 1
+    },
+    "acces": {
+        "doc16.txt": 1
+    },
+    "engin": {
+        "doc16.txt": 1,
+        "doc8.txt": 1
+    },
+    "combine": {
+        "doc16.txt": 1
+    },
+    "databas": {
+        "doc16.txt": 1
+    },
+    "invert": {
+        "doc16.txt": 1,
+        "doc7.txt": 1
+    },
+    "filter": {
+        "doc16.txt": 1,
+        "doc4.txt": 1
+    },
+    "corpu": {
+        "doc16.txt": 1
+    },
+    "manag": {
+        "doc16.txt": 1
+    },
+    "expans": {
+        "doc17.txt": 2
+    },
+    "add": {
+        "doc17.txt": 1
+    },
+    "relat": {
+        "doc17.txt": 1
+    },
+    "term": {
+        "doc17.txt": 1,
+        "doc4.txt": 1,
+        "doc7.txt": 1
+    },
+    "relevance": {
+        "doc17.txt": 1,
+        "doc3.txt": 1
+    },
+    "feedback": {
+        "doc17.txt": 1
+    },
+    "thesauru": {
+        "doc17.txt": 1
+    },
+    "bas": {
+        "doc17.txt": 1,
+        "doc2.txt": 1,
+        "doc20.txt": 1
+    },
+    "increase": {
+        "doc17.txt": 1
+    },
+    "also": {
+        "doc17.txt": 1,
+        "doc20.txt": 1
+    },
+    "benefit": {
+        "doc17.txt": 1
+    },
+    "semantic": {
+        "doc17.txt": 1
+    },
+    "keyword": {
+        "doc17.txt": 1
+    },
+    "suggestion": {
+        "doc17.txt": 1
+    },
+    "object": {
+        "doc18.txt": 1,
+        "doc5.txt": 1
+    },
+    "detect": {
+        "doc18.txt": 2
+    },
+    "locat": {
+        "doc18.txt": 1
+    },
+    "visual": {
+        "doc18.txt": 2,
+        "doc5.txt": 1,
+        "doc6.txt": 1
+    },
+    "entity": {
+        "doc18.txt": 1
+    },
+    "assign": {
+        "doc18.txt": 1
+    },
+    "modern": {
+        "doc18.txt": 1
+    },
+    "convolution": {
+        "doc18.txt": 1
+    },
+    "analysi": {
+        "doc18.txt": 1,
+        "doc19.txt": 1,
+        "doc2.txt": 1,
+        "doc8.txt": 1,
+        "doc9.txt": 1
+    },
+    "temporal": {
+        "doc19.txt": 1
+    },
+    "sensor": {
+        "doc19.txt": 1
+    },
+    "frequency": {
+        "doc19.txt": 1,
+        "doc8.txt": 1
+    },
+    "identify": {
+        "doc19.txt": 1
+    },
+    "repeat": {
+        "doc19.txt": 1
+    },
+    "noise": {
+        "doc19.txt": 1
+    },
+    "applicate": {
+        "doc19.txt": 1
+    },
+    "branch": {
+        "doc2.txt": 1
+    },
+    "layer": {
+        "doc2.txt": 1
+    },
+    "wide": {
+        "doc2.txt": 1
+    },
+    "understand": {
+        "doc2.txt": 1,
+        "doc5.txt": 1,
+        "doc9.txt": 1
+    },
+    "automatic": {
+        "doc2.txt": 1
+    },
+    "requir": {
+        "doc2.txt": 1
+    },
+    "optim": {
+        "doc2.txt": 1
+    },
+    "propose": {
+        "doc20.txt": 1
+    },
+    "item": {
+        "doc20.txt": 1
+    },
+    "preferenc": {
+        "doc20.txt": 1
+    },
+    "document": {
+        "doc20.txt": 1,
+        "doc3.txt": 1,
+        "doc4.txt": 1,
+        "doc7.txt": 1,
+        "doc9.txt": 1
+    },
+    "movy": {
+        "doc20.txt": 1
+    },
+    "product": {
+        "doc20.txt": 1
+    },
+    "measur": {
+        "doc20.txt": 1,
+        "doc3.txt": 1
+    },
+    "important": {
+        "doc20.txt": 1,
+        "doc5.txt": 1
+    },
+    "pipelin": {
+        "doc20.txt": 1
+    },
+    "focus": {
+        "doc3.txt": 1
+    },
+    "find": {
+        "doc3.txt": 1
+    },
+    "engine": {
+        "doc3.txt": 1
+    },
+    "result": {
+        "doc3.txt": 1
+    },
+    "depend": {
+        "doc3.txt": 1
+    },
+    "preprocess": {
+        "doc3.txt": 1,
+        "doc9.txt": 1
+    },
+    "scor": {
+        "doc3.txt": 1
+    },
+    "boolean": {
+        "doc4.txt": 1,
+        "doc7.txt": 1
+    },
+    "represent": {
+        "doc4.txt": 1
+    },
+    "logical": {
+        "doc4.txt": 1
+    },
+    "operator": {
+        "doc4.txt": 1
+    },
+    "simple": {
+        "doc4.txt": 1
+    },
+    "interpret": {
+        "doc4.txt": 1
+    },
+    "want": {
+        "doc4.txt": 1
+    },
+    "exact": {
+        "doc4.txt": 1
+    },
+    "instead": {
+        "doc4.txt": 1
+    },
+    "weight": {
+        "doc4.txt": 1
+    },
+    "analyz": {
+        "doc5.txt": 1
+    },
+    "video": {
+        "doc5.txt": 1
+    },
+    "feature": {
+        "doc5.txt": 1
+    },
+    "extract": {
+        "doc5.txt": 1
+    },
+    "segmentate": {
+        "doc5.txt": 1
+    },
+    "scene": {
+        "doc5.txt": 1
+    },
+    "common": {
+        "doc5.txt": 1,
+        "doc9.txt": 1
+    },
+    "dataset": {
+        "doc5.txt": 1
+    },
+    "robust": {
+        "doc5.txt": 1
+    },
+    "combin": {
+        "doc6.txt": 1
+    },
+    "answer": {
+        "doc6.txt": 1
+    },
+    "complex": {
+        "doc6.txt": 1
+    },
+    "textual": {
+        "doc6.txt": 1
+    },
+    "annotate": {
+        "doc6.txt": 1
+    },
+    "cros": {
+        "doc6.txt": 1
+    },
+    "modal": {
+        "doc6.txt": 1
+    },
+    "stor": {
+        "doc7.txt": 1
+    },
+    "list": {
+        "doc7.txt": 1
+    },
+    "contain": {
+        "doc7.txt": 1
+    },
+    "structure": {
+        "doc7.txt": 1
+    },
+    "speed": {
+        "doc7.txt": 1
+    },
+    "central": {
+        "doc7.txt": 1
+    },
+    "music": {
+        "doc8.txt": 1
+    },
+    "sound": {
+        "doc8.txt": 1
+    },
+    "energy": {
+        "doc8.txt": 1
+    },
+    "describe": {
+        "doc8.txt": 1
+    },
+    "content": {
+        "doc8.txt": 1
+    },
+    "may": {
+        "doc8.txt": 1
+    },
+    "tag": {
+        "doc8.txt": 1
+    },
+    "retrieve": {
+        "doc8.txt": 1
+    },
+    "token": {
+        "doc9.txt": 1
+    },
+    "stop": {
+        "doc9.txt": 1
+    },
+    "removal": {
+        "doc9.txt": 1
+    },
+    "stemm": {
+        "doc9.txt": 1
+    },
+    "step": {
+        "doc9.txt": 1
+    },
+    "better": {
+        "doc9.txt": 1
+    },
+    "improv": {
+        "doc9.txt": 1
+    }
+}

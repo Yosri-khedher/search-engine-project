@@ -1,0 +1,1 @@
+Boolean retrieval represents documents with terms and supports logical operators such as AND, OR, and NOT. This model is simple and interpretable. It is useful when the user wants exact filtering instead of weighted ranking.

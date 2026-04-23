@@ -1,0 +1,1 @@
+Deep learning is a branch of machine learning based on neural networks with many layers. It is widely used for language analysis, image understanding, and automatic decision systems. Training requires optimization, data, and evaluation.

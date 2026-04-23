@@ -1,0 +1,1 @@
+Natural language processing helps computers understand text queries and documents. Tokenization, stop word removal, and stemming are common preprocessing steps. Better query analysis often improves retrieval quality.
