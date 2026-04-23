@@ -1,1 +1,0 @@
-Image indexing can rely on color, texture, shape, and local descriptors. Computer vision methods convert pixels into searchable representations. Efficient indexing helps large image collections remain accessible.

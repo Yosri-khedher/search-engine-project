@@ -1,1 +1,0 @@
-Signal analysis studies temporal patterns in audio and sensor data. Frequency transforms help identify repeated structures and noise. Multimedia applications use signal descriptors for classification and retrieval.

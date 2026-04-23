@@ -1,1 +1,0 @@
-Speech recognition transforms audio signals into text. Acoustic models and language models cooperate to decode spoken words. This task links audio processing with natural language technologies.

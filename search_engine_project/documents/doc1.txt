@@ -1,1 +1,0 @@
-Machine learning studies algorithms that learn patterns from data. Supervised learning uses labeled examples to build predictive models. Good features and clean training sets usually improve classification quality.

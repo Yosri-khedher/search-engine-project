@@ -1,1 +1,0 @@
-Digital libraries manage books, articles, images, and multimedia archives. Search interfaces must support indexing, metadata, and user friendly exploration. Retrieval systems help users discover relevant resources quickly.

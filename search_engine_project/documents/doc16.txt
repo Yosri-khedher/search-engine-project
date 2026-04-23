@@ -1,1 +1,0 @@
-Database systems store structured information and support efficient access. Search engines often combine databases with inverted indexes. Metadata can improve document filtering and corpus management.

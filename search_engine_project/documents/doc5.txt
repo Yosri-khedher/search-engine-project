@@ -1,1 +1,0 @@
-Computer vision analyzes images and video using feature extraction and deep learning. Object recognition, segmentation, and scene understanding are common tasks. Visual datasets are important for robust models.
